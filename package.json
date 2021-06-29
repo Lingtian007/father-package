@@ -1,0 +1,22 @@
+{
+  "name": "fastman3-dfyjapp-purelogin",
+  "version": "1.0.0",
+  "description": "a purelogin component for xxx",
+  "main": "es/index.js",
+  "main:h5": "es/index.h5.js",
+  "scripts": {
+    "build": "father-build"
+  },
+  "keywords": [
+    "purelogin"
+  ],
+  "author": "ty",
+  "license": "ISC",
+  "peerDependencies": {
+    "fastman3-dfyjapp-request": "^1.0.0",
+    "fastman3-dfyjapp-jsbridge": "^1.0.0"
+  },
+  "devDependencies": {
+    "father-build": "1.19.4"
+  }
+}
